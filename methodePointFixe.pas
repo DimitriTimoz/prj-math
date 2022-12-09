@@ -19,7 +19,7 @@ begin
     while abs(trajectoire(x)) > e  do 
     begin
         i := i + 1;
-        // Xn+1 = f(x) - x 
+        // Xn+1 = f(x) + x 
 		x := xPlus1;
 		xPlus1 := trajectoire(x) + x;
         if i > max_iter then

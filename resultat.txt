@@ -1,39 +1,39 @@
-Pour epsilon: 1.0000000000
+Pour epsilon: 0.1000000000
 Méthode de la dichotomie: 
  - f(x) = 0, avec x = 17.2851562500 et un nombre d'iteration n = 9
 Méthode de Newton: 
  - f(x) = 0, avec x = 17.3176139728 et un nombre d'iteration n = 2
 Méthode du point fixe: 
  - f(x) = 0, avec x = 16.8653067574 et un nombre d'iteration n = 18
-Pour epsilon: 0.1000000000
+Pour epsilon: 0.0100000000
 Méthode de la dichotomie: 
  - f(x) = 0, avec x = 17.2302246094 et un nombre d'iteration n = 13
 Méthode de Newton: 
  - f(x) = 0, avec x = 17.2293299883 et un nombre d'iteration n = 3
 Méthode du point fixe: 
  - f(x) = 0, avec x = 17.1909623209 et un nombre d'iteration n = 28
-Pour epsilon: 0.0100000000
+Pour epsilon: 0.0010000000
 Méthode de la dichotomie: 
  - f(x) = 0, avec x = 17.2294616699 et un nombre d'iteration n = 16
 Méthode de Newton: 
  - f(x) = 0, avec x = 17.2293299883 et un nombre d'iteration n = 3
 Méthode du point fixe: 
  - f(x) = 0, avec x = 17.2260550796 et un nombre d'iteration n = 39
-Pour epsilon: 0.0010000000
+Pour epsilon: 0.0001000000
 Méthode de la dichotomie: 
  - f(x) = 0, avec x = 17.2291755676 et un nombre d'iteration n = 19
 Méthode de Newton: 
  - f(x) = 0, avec x = 17.2293299883 et un nombre d'iteration n = 3
 Méthode du point fixe: 
  - f(x) = 0, avec x = 17.2289250667 et un nombre d'iteration n = 49
-Pour epsilon: 0.0001000000
+Pour epsilon: 0.0000100000
 Méthode de la dichotomie: 
  - f(x) = 0, avec x = 17.2292649746 et un nombre d'iteration n = 23
 Méthode de Newton: 
  - f(x) = 0, avec x = 17.2292612484 et un nombre d'iteration n = 4
 Méthode du point fixe: 
  - f(x) = 0, avec x = 17.2292259992 et un nombre d'iteration n = 59
-Pour epsilon: 0.0000100000
+Pour epsilon: 0.0000010000
 Méthode de la dichotomie: 
  - f(x) = 0, avec x = 17.2292612493 et un nombre d'iteration n = 26
 Méthode de Newton: 
@@ -41,6 +41,6 @@ Méthode de Newton:
 Méthode du point fixe: 
  - f(x) = 0, avec x = 17.2292575524 et un nombre d'iteration n = 69
 Pour e =  1.0000000000000002E-006
-Dichotomie 1 000 000 d'exécutions en 1716 ms
-Newton 1 000 000 d'exécutions en 362 ms
-Point fixe 1 000 000 d'exécutions en 3042 ms
+Dichotomie 1 000 000 d'exécutions en 1686 ms
+Newton 1 000 000 d'exécutions en 359 ms
+Point fixe 1 000 000 d'exécutions en 3011 ms

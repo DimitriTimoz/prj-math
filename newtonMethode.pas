@@ -17,7 +17,7 @@ begin
   begin
       i := i + 1;
       
-      a := a - trajectoire(a) / dtrajectoire(a);
+      a := a - (trajectoire(a) / dtrajectoire(a));
       
       // Protection contre les boucles infinies
       if i > max_iter then

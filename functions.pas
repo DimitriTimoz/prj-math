@@ -6,7 +6,7 @@ interface
         gravity = 9.81;
         V = 53.0;
         H = 2.95;
-        alpha = 7.0;
+        alpha = 8.0;
         max_iter = 100;
 
     function radians(x: Double): Double;
@@ -26,6 +26,6 @@ implementation
 
     function dtrajectoire(x: Double): Double;
     begin
-        dtrajectoire := -gravity * (x / ((V * cos(radians(alpha)))** 2.0)) - tan(radians(alpha));
+        dtrajectoire := -gravity * (x / ((V * cos(radians(alpha))) ** 2.0)) - tan(radians(alpha));
     end;
 end.

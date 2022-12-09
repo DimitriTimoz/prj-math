@@ -7,7 +7,7 @@ interface
         V = 53.0;
         H = 2.95;
         alpha = 8.0;
-        max_iter = 100;
+        max_iter = 10000;
 
     function radians(x: Double): Double;
 

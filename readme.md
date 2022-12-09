@@ -18,7 +18,7 @@ prj-math/
 Pour compiler le programme utilisez ```fpc main.pas``` dans le répertoire du code source.  
 Pour exécuter le programme utilisez ```./main``` sur une machine basée sous linux ou ```./main.exe``` sur windows.  
   
-La version du compilateur utilisé est la 3.2.2 pour une architecture aarch64.  
+La version du compilateur utilisé est la ```3.2.2``` pour une architecture ```aarch64```.  
 Le programme devrait compiler correctement sur tous les architecutres communes si le compilateur est correctement paramétré.
 Nous avons utilisé un Macbook Pro M1 2022, 16 Go RAM pour les mesures réalisées.
 
